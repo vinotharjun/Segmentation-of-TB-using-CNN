@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Anomaly</folder>
+	<filename>anomaly35.jpeg</filename>
+	<path>C:\Users\solai\Desktop\projects ml\real time projects\tb segmentation\tb images\Anomaly\anomaly35.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2645</width>
+		<height>2013</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anomaly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1971</xmin>
+			<ymin>433</ymin>
+			<xmax>2400</xmax>
+			<ymax>836</ymax>
+		</bndbox>
+	</object>
+</annotation>
